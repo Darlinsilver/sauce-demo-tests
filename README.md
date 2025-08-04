@@ -64,7 +64,7 @@ Executar o fluxo completo de compra utilizando o usuário `problem_user`, observ
 
 ### 📋 Instruções
 
-1. Acesse o site: [https://www.saucedemo.com](https://www.saucedemo.com)
+1. Acesse o site: [https://www.saucedemo.com/v1](https://www.saucedemo.com/v1)
 2. Realize login com:
    - **Usuário:** `problem_user`
    - **Senha:** `secret_sauce`
@@ -98,7 +98,7 @@ Executar o fluxo completo de compra utilizando o usuário `problem_user`, observ
 ---
 
 ### 📷 Evidência
-- **Print do erro:** ![Captura de tela](/cypress/evidencias/videos/evidencia_caso_de_teste2.mp4)
+- **Print do erro:** ![https://drive.google.com/file/d/1ogb9u1eP5jfIQ2szr_LA1dd22e1yRyQ1/view?usp=sharing]
 
 ---
 
